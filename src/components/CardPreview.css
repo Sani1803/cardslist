@@ -1,0 +1,48 @@
+.card-preview {
+    width: 18%;
+    margin: 3%;
+}
+
+.image {
+    width: 221px;
+    height: 310px;
+}
+
+.card-text {
+    border: 3px solid #153A2C;
+    box-shadow: 2px 5px #245743;
+    border-radius: 5px;
+    max-width: 95%;
+    min-width: 230px;
+    height: 330px;
+    margin: 20px auto;
+    padding: 3px;
+}
+
+.name {
+    font-size: 18px;
+    margin: 3px auto 12px auto;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 1150px) {
+
+    .width80 {
+        width: 43% !important;
+        margin: 3% !important;
+    }
+
+    .width80text {
+        width: 46% !important;
+        margin-bottom: 20%;
+        /* min-width: 230px; */
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    
+    .mobile-section {
+        width: 95% !important;
+        margin: 2% !important;
+    }
+}

@@ -1,0 +1,31 @@
+.user-name {
+    font-size: 35px;
+    font-weight: bold;
+    margin-right: 20px;
+    color: #153A2C;
+}
+
+.todo-input {
+    height: 25px;
+    box-shadow: 0 3px 5px 0 #245743;
+    border: 2px solid #245743;
+}
+
+form {
+    margin: 15% auto 85% auto;
+    border: 5px solid #153A2C;
+    box-shadow: 15px 15px 30px 0 #245743;
+    width: 50%;
+    padding: 100px;
+}
+
+button {
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    box-shadow: 0 3px 5px 0 #245743;
+    border: 2px solid #245743;
+    /* background-color: transparent; */
+    
+}
+
